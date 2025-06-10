@@ -1,16 +1,30 @@
-## Hi there 👋
+# 💻✨ **Presentación – Programación IV** ✨💻
 
-<!--
-**juuansete01/juuansete01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 👤 **Nombre del estudiante:**
+**Juan José Callejo**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🏫 **Curso:**
+**Sexto Año**
+
+## 📚 **Materia:**
+**Programación IV**
+
+---
+
+## 📑 **Índice de Temas Vistos en Clase**
+
+1. 📊 **Data Frame y Set**
+2. 🌐 **Big Data**
+3. 🤖 **Inteligencia Artificial (IA)**
+4. 🧠 **Machine Learning**
+5. 🐍 **Python**
+
+---
+
+> 💡 *"La programación no se trata solo de escribir código, sino de crear soluciones que transforman el mundo."*
+
+---
+
+## 🎓 ¡Gracias por su atención! 🚀
